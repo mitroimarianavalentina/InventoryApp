@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/productDetailsColorPrimary</item>
+        <item name="colorPrimaryDark">@color/productDetailsColorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+<!-- Theme of the editor -->
+<style name="ProductDetails" parent="Theme.AppCompat.Light.DarkActionBar">
+    <item name="colorPrimary">@color/productDetailsColorPrimary</item>
+    <item name="colorPrimaryDark">@color/productDetailsColorPrimaryDark</item>
+    <item name="colorAccent">@color/colorAccent</item>
+</style>
+</resources>

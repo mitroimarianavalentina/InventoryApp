@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Accent color for UI controls like checkboxes and text fields -->
+    <color name="colorAccent">#ff5050</color>
+
+    <!-- Primary color for the editor -->
+    <color name="productDetailsColorPrimary">#2D3640</color>
+
+    <!-- Primary dark color for the editor -->
+    <color name="productDetailsColorPrimaryDark">#394450</color>
+</resources>
